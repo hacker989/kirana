@@ -39,7 +39,3 @@ Caranya:<br>
 3. # chmod +x simplewebssh.sh <br>
 4. # ./simplewebssh.sh<br>
 5. Ikuti proses sampai selesai <br>
-
-More Info Cek Blog : www.mastahit.com
-
-@sonedinjector
